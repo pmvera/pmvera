@@ -3,7 +3,7 @@
 I'm learning Python and much more!
 
 - 🔭 I’m currently working on Python software development
-- 🌱 I’m currently learning Python, XML, PostgreSQL, OdooERP and more!
+- 🌱 I’m currently learning Python, XML, PostgreSQL, OdooERP, Go and more!
 - 👯 I’m looking to collaborate on Python, Go, JS, Docker, AWs projects.
 - 🤔 I’m looking for help with every you can teach me!
 - 💬 Ask me about Python, WebRTC, Django, PostgreSQL or whatever you need :smiley:
