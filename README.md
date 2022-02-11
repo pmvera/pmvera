@@ -8,10 +8,10 @@ I'm learning Python and much more!
 - 🤔 I’m looking for help with every you can teach me!
 - 💬 Ask me about Python, WebRTC, Django, PostgreSQL or whatever you need :smiley:
 - 📫 How to reach me: pablomvera14@gmail.com
-- :computer: Working on: [Visiotech](https://www.visiotechsecurity.com/es)
-- :mortar_board: TFG and TFM: [TFG](https://github.com/RoboticsLabURJC/2017-tfg-pablo-moreno) and [TFM](https://github.com/RoboticsLabURJC/2019-tfm-pablo-moreno)
-- :books: Working repository: I have another repository for my [Odoo developer work](https://github.com/pmoreno-visiotech)
-- :notebook_with_decorative_cover: My CV: [Here](https://www.canva.com/design/DADr0_0zE70/PVHTYBYZ-HIutNUsn9Un-A/edit) you can find my CV!
+- :computer: Working on [Visiotech](https://www.visiotechsecurity.com/es)
+- :mortar_board: You can see my academic work, [TFG](https://github.com/RoboticsLabURJC/2017-tfg-pablo-moreno) and [TFM](https://github.com/RoboticsLabURJC/2019-tfm-pablo-moreno)
+- :books: I have another repository for my [Odoo developer work](https://github.com/pmoreno-visiotech)
+- :notebook_with_decorative_cover: [Here](https://www.canva.com/design/DADr0_0zE70/PVHTYBYZ-HIutNUsn9Un-A/edit) you can find my CV!
 
 
 ## Lenguages and Tools
