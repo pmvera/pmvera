@@ -1,4 +1,4 @@
-### Hi there 👋 Im Pablo Moreno Vera
+### Hi there 👋 I'm Pablo Moreno Vera
 
 I'm learning Python and much more!
 
