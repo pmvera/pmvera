@@ -2,11 +2,11 @@
 
 I'm learning Python and much more!
 
-- 🔭 I’m currently working on Python software development
-- 🌱 I’m currently learning Python, XML, PostgreSQL, OdooERP, Go and more!
-- 👯 I’m looking to collaborate on Python, Go, JS, Docker, AWs projects.
+- 🔭 I’m currently working on Flask-Python Backend Web development
+- 🌱 I’m currently learning Flask, Python, XML, PostgreSQL, MySQL, OdooERP, Go and more!
+- 👯 I’m looking to collaborate on Django, Flask, Python, Go, JS, Docker, AWs projects.
 - 🤔 I’m looking for help with every you can teach me!
-- 💬 Ask me about Python, WebRTC, Django, PostgreSQL or whatever you need :smiley:
+- 💬 Ask me about Python, WebRTC, Django, Flask, PostgreSQL, MySQL or whatever you need :smiley:
 - 📫 How to reach me: pablomvera14@gmail.com
 - :computer: Working on [Visiotech](https://www.visiotechsecurity.com/es)
 - :mortar_board: You can see my academic work, [TFG](https://github.com/RoboticsLabURJC/2017-tfg-pablo-moreno) and [TFM](https://github.com/RoboticsLabURJC/2019-tfm-pablo-moreno)
